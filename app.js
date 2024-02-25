@@ -1,3 +1,13 @@
-document.write(
-    "<center><h1>Muhammad Hassaan Furqan</h1><h2>+1232456789<br>Karachi,Pakistan</h2></center><hr><h2>Professional Sumarry:</h2><p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Soluta aperiam dolorem cupiditate quae repellat aliquid enim. Quaerat saepe cupiditate quisquam. Omnis itaque non alias nisi repellat, veritatis cupiditate iure quae.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Soluta aperiam dolorem cupiditate quae repellat aliquid enim. Quaerat saepe cupiditate quisquam. Omnis itaque non alias nisi repellat, veritatis cupiditate iure quae.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Soluta aperiam dolorem cupiditate quae repellat aliquid enim. Quaerat saepe cupiditate quisquam. Omnis itaque non alias nisi repellat, veritatis cupiditate iure quae.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Soluta aperiam dolorem cupiditate quae repellat aliquid enim. Quaerat saepe cupiditate quisquam. Omnis itaque non alias nisi repellat, veritatis cupiditate iure quae.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Soluta aperiam dolorem cupiditate quae repellat aliquid enim. Quaerat saepe cupiditate quisquam. Omnis itaque non alias nisi repellat, veritatis cupiditate iure quae.</p><hr><h2>Work History:</h2><p>Fresh</p><hr><h2>Skills:</h2><p>Web Designer</p><hr><h2>Education:</h2><p>Doing Study in Army Public School Saddar Karachi </p><hr>"
-)
+var alert1= "Error! Please enter a valid password"
+alert(alert1)
+
+alert ("Welcome to JS Land...\nHappy Coding!")
+
+var alert2= "Welcome to JS Land..."
+alert(alert2)
+
+var alert3= "Happy Coding!"
+alert(alert3)
+
+var alert4= "Hello... I can run JS through my web browser's console"
+alert(alert4)
